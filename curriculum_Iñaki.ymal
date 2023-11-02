@@ -1,0 +1,44 @@
+informacion_personal:
+ Nombre: Iñaki Borrego Bau
+ Direccion: Vall de albaida 5, 3c Pto. Sagunto
+ Telefono: 652387166
+ Correo: debau@hotmail.es
+
+resumen: |
+ Soy un cocinero con mucha experiencia en cofencion de menus degustación. Especializado en
+ en arroces tanto secos como melosos.
+
+experiencia_laboral:
+ -puesto: cocinero
+  empresa: Restaurante Frida
+  periodo: Enero 2017 - Emerp 2020
+  descripcion: Elaboracion de menus diarios y trabajar con carta.
+  -puesto: 2 jefe de cocina
+  empresa: Hotel Mar de fulles
+  periodo: Febrero 2020- septiembre 2023
+  descripcion: Elaboracion de menus, pedidos a provedores, elaboracion de horarios.
+  
+educacion:
+ -titulo: F.P grado superior Cocina y Gastronomia
+  institucion: I.E.S Guillem d'Alcala
+  periodo: 2010-2012
+ -titulo: F.P grado medio Cocina y Gastronomia
+  institucion: I.E.S Virgen al Pie de la Cruz
+  periodo: 2008-2010
+
+habilidades:
+ -Elaboracion de menus degustacion.
+ -Experto en arroces
+ -Trabajo en equipo
+
+idiomas:
+ -idioma: Castellano
+  nivel: Nativo
+  -idioma: Ingles
+   nivel: Principiante
+
+certificaciones:
+ -certificacion: Carnet manipulador de Alimentos
+  institucion: Sepe 
+  fecha: julio 2010
+
